@@ -3,15 +3,15 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**Hello, {}
-I Am ShortnerFly.com, Bulk Link Converter. I Can Convert Links Directly From Your ShortnerFly Account,
+I Am Shrinkearn.com, Bulk Link Converter. I Can Convert Links Directly From Your Shrinkearn Account,
     
-1. Go To 👉 https://ShortnerFly.com/member/tools/api  
+1. Go To 👉 https://shrinkearn.com/member/tools/api  
 2. Than Copy API Key
 3. Than Type /api than give a single space and than paste your API Key (see example to understand more...)**
 
 **/api(space)API Key 
 (See Example.👇)
-Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
+Example:** `/api 5a30c450f343426545a53488c7a7c8b8fb9cf01b `
 
 **➕ Hit** 👉 /Features To Know More Features Of This Bot.
 **💁‍♀️ Hit** 👉 /help To Get Help.
